@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\API.csproj": {}
+    "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\API.csproj": {
+    "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\API.csproj",
+        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\obj\\",
+        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"

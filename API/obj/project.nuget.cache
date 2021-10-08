@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SvdY9zSxhXWUokt8VHwgwFSDwmUIfGeQeWVnjCAzjHPG69qBNDgbTGGk7pt3lFMF3b9+8HaCsaFRe3SJ9LbpaQ==",
+  "dgSpecHash": "28aYUNw1wSUKyQjFfmAuWYFA2Gp1zavOnPiP+7O0JON9diaL2ZfuPxl2AOSwk/M1RIPTiJHEUR2r35bLEZgYBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yiliver\\Documents\\reactivities\\APi\\API.csproj",
+  "projectFilePath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yiliver\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Yiliver\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
