@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {}
+    "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {
+    "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\obj\\",
+        "outputPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj"
+              "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -69,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +147,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
