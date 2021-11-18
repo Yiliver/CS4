@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgRmiS3xOqx7TOa6p/lpOhJHAqBQC1TRO8yhdu2GRHiIG5np0qlWJ+P+cHiWt8rKiwArYiv8hx761EncstrBJA==",
+  "dgSpecHash": "Q6AihCaoTar4om5/h5DtYBzGyui7VMFRZ6Cs+edu42l7GDikX/OhClvxKgrLv//Bc9s3JIJeDQQcxgYTHO5VYw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yiliver\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Yiliver\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

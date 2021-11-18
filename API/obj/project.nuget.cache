@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBijZqnSTWV9UK1mG/QJnICMCN+6uIJT9bC7zIfIKdIN9m1xWaSLFDg33MEX1SoMdjpHoscTwMEyxWt1TXrGzw==",
+  "dgSpecHash": "BuhV8enMjyrklHPh8fM3I/EdOns7msP0EiJ6GZnMa1JTf+nYGYcyIJESXI/Cqm2fseIoNX5ne2QdeAsHLfR8Cw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yiliver\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Yiliver\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
