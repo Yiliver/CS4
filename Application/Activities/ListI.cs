@@ -9,7 +9,7 @@ using Persistence;
 
 namespace Application.Activities
 {
-    public class ListById{
+    public class Listl{
         public class QueryId : IRequest<Activity>{
             public Guid _guid;
             
